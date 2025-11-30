@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for binwiseee on 2025-11-30T17:06:39Z
+# fly.toml app configuration file generated for binwiseee-uvgxsg on 2025-11-30T18:40:31Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'binwiseee'
+app = 'binwiseee-uvgxsg'
 primary_region = 'cdg'
 
 [build]
